@@ -5,6 +5,7 @@ import 'package:todoey_app/modal/task_data.dart';
 
 void main() {
   runApp(MyApp());
+  test();
 }
 
 class MyApp extends StatelessWidget {
