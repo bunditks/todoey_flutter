@@ -5,7 +5,7 @@ class Task {
 
   Task({this.name, this.isDone = false});
 
-  /// void toggleDone() {
+  // void toggleDone() {
   //   isDone = !isDone;
   //}
 
